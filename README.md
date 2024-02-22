@@ -4,6 +4,11 @@ This is the source code and materials for *Artificial intelligence for complex s
 ## Tencent Meeting
 972-9682-7117
 
+## The links to the course recordings
+录制：面向复杂系统的人工智能
+日期：2024-02-22 13:22:19
+录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=e920ec51-de40-49d0-b5d9-e9e7fc05478a
+
 ## Outline
 https://o6n8gxzxdg.feishu.cn/docx/SnetdbMUYo7m5uxELmZcrFKgnjf?from=from_copylink
 
