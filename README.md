@@ -16,6 +16,10 @@ This is the source code and materials for *Artificial intelligence for complex s
 录制：面向复杂系统的人工智能
 日期：2024-03-07 13:12:38
 录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=382cfaf0-db9c-4280-986e-f703c9b5a78e
+
+录制: 面向复杂系统的人工智能
+日期: 2024-03-14 13:14:13
+录制文件：https://meeting.tencent.com/v2/cloud-record/share?id=8c1f15ae-c7ad-4b96-b02d-9be6808d18b9&from=3&record_type=2
 ## Outline
 https://o6n8gxzxdg.feishu.cn/docx/SnetdbMUYo7m5uxELmZcrFKgnjf?from=from_copylink
 
